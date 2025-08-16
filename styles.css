@@ -254,7 +254,7 @@ body{
     background-color: #3f3f3f;
 }
 
-.dark-mode .screen {
+.dark-mode .inner-result {
     background-color: #1E1E1E;
     color: #E0E0E0; 
 }
